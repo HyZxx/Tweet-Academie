@@ -1,13 +1,13 @@
 # Tweet-Academie, Projet en groupe
 
-- Les langages utilisés :
+Les langages utilisés :
 
 * PHP
 * CSS
 * SQL
 * JAVASCRIPT
 
-- Les fonctionnalités implémentées :
+Les fonctionnalités implémentées :
 
 * S'inscrire / Se connecter 
 * Modification du profil (nom, prenom, username, email, biographie, banner, picture)
