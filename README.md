@@ -1,5 +1,7 @@
 # Tweet-Academie, Projet en groupe
 
+Ce projet a été fait grâce à la Web@cadémie, en groupe de 4 personnes sur une durée de 1 mois
+
 Les langages utilisés :
 
 * PHP
